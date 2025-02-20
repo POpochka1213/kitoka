@@ -895,10 +895,6 @@ footer {
     box-shadow: 0 0 8px rgba(219, 52, 52, 0.6);
 }
 
-.vector {
-    margin-left: -340px;
-}
-
 .filter {
     padding-top: 40px;
     display: flex;
