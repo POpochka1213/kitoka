@@ -850,21 +850,17 @@ footer {
     display: flex;
     gap: 50px;
     padding-bottom: 20px;
+} 
+
+.group-88 {
+   position:relearive;
 }
 
-/* .group-88 {
-    margin-top: 60px;
+.filter {
+    padding-top: 40px;
     display: flex;
-    align-items: center;
-    justify-content: flex-start;
-    width: 1440px;
-    height: 64px;
-    box-sizing: border-box;
-    background: #151515;
-    border: 1px solid #686868;
-    border-radius: 250px;
-    padding-left: 100px;
-} */
+    gap: 30px;
+}
 
 .search-input {
     font-family: 'Montserrat', sans-serif;
@@ -891,6 +887,12 @@ footer {
     border: 1px solid #686868;
     border-radius: 250px;
     padding-left: 100px;
+}
+
+.vector {
+    position: absolute;
+    top: 18px;
+    left: 40px;
 }
 
 .search-input:focus {
