@@ -853,13 +853,7 @@ footer {
 } 
 
 .group-88 {
-   position:relearive;
-}
-
-.filter {
-    padding-top: 40px;
-    display: flex;
-    gap: 30px;
+   position:relative;
 }
 
 .search-input {
